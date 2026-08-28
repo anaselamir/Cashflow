@@ -160,6 +160,14 @@ function detectFormat(content: string): BankCsvFormat {
   );
 }
 
+// LCL statements identify the account by its legal-entity holder name (ENTITE),
+// not a friendly label. Map the known entities to the labels used elsewhere
+// in the app so imports land on the same bank cards instead of splitting.
+const KNOWN_LCL_ENTITIES: Record<string, string> = {
+  "FRANCE PORT SERVICES": "LCL FR",
+  "BWA YACHTING MONACO SAM": "LCL MC",
+};
+
 export function parseAnyBankCsv(content: string): {
   format: BankCsvFormat;
   bank: string;
@@ -172,5 +180,6 @@ export function parseAnyBankCsv(content: string): {
   }
 
   const { bank, rows } = parseLclCsv(content);
-  return { format, bank: bank ?? "LCL (unknown account)", rows };
+  const resolvedBank = bank ? (KNOWN_LCL_ENTITIES[bank] ?? bank) : "LCL (unknown account)";
+  return { format, bank: resolvedBank, rows };
 }

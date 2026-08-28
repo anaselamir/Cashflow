@@ -30,7 +30,13 @@ export function BankCsvImport({ onImported }: { onImported: () => Promise<void> 
           prev.map((r, idx) =>
             idx === i
               ? res.ok
-                ? { ...r, status: "done", message: `${body.bank}: ${body.imported} entries` }
+                ? {
+                    ...r,
+                    status: "done",
+                    message:
+                      `${body.bank}: ${body.imported} entries` +
+                      (body.replaced ? ` (replaced ${body.replaced} existing)` : ""),
+                  }
                 : { ...r, status: "error", message: body.error }
               : r
           )
@@ -55,7 +61,9 @@ export function BankCsvImport({ onImported }: { onImported: () => Promise<void> 
       </p>
       <p className="mt-1 text-sm text-ink-soft">
         Select one or more bank statement CSVs — the bank and account are detected
-        automatically from each file.
+        automatically from each file. Each statement replaces whatever is already
+        on the books for that bank in the dates it covers, so provisional entries
+        get swapped for the real transaction once the statement arrives.
       </p>
 
       <input

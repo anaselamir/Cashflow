@@ -1,7 +1,12 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { bankCsvImportInput } from "@/lib/validation";
-import { parseAnyBankCsv } from "@/lib/csvImport";
+import { parseAnyBankCsv, type ParsedRow } from "@/lib/csvImport";
+
+function dateRange(rows: ParsedRow[]): { min: string; max: string } {
+  const dates = rows.map((r) => r.date).sort();
+  return { min: dates[0], max: dates[dates.length - 1] };
+}
 
 export async function POST(request: Request) {
   const body = await request.json();
@@ -15,7 +20,7 @@ export async function POST(request: Request) {
   }
 
   let bank: string;
-  let rows;
+  let rows: ParsedRow[];
   try {
     ({ bank, rows } = parseAnyBankCsv(parsed.data.content));
   } catch (err) {
@@ -32,14 +37,24 @@ export async function POST(request: Request) {
     );
   }
 
-  const result = await prisma.transaction.createMany({
-    data: rows.map((r) => ({
-      date: new Date(r.date),
-      bank,
-      text: r.text,
-      amount: r.amount,
-    })),
-  });
+  // The statement is authoritative for the date range it covers — replace
+  // whatever is already on the books for this bank in that window (including
+  // provisional/estimated entries) with what the statement actually says.
+  const { min, max } = dateRange(rows);
 
-  return NextResponse.json({ bank, imported: result.count });
+  const [{ count: replaced }, created] = await prisma.$transaction([
+    prisma.transaction.deleteMany({
+      where: { bank, date: { gte: new Date(min), lte: new Date(max) } },
+    }),
+    prisma.transaction.createMany({
+      data: rows.map((r) => ({
+        date: new Date(r.date),
+        bank,
+        text: r.text,
+        amount: r.amount,
+      })),
+    }),
+  ]);
+
+  return NextResponse.json({ bank, imported: created.count, replaced });
 }
