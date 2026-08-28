@@ -1,0 +1,1759 @@
+[
+  {
+    "DATE": "2026-08-01",
+    "WEEK": "W1",
+    "BANK": "LCL FR",
+    "TEXT": "OPENING BALANCE (carried from July)",
+    "AMOUNT": 14280.06
+  },
+  {
+    "DATE": "2026-08-01",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "OPENING BALANCE (carried from July)",
+    "AMOUNT": 23271.34
+  },
+  {
+    "DATE": "2026-08-01",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "OPENING BALANCE (carried from July)",
+    "AMOUNT": 715469.65
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA ORANGE SA-ORANGE",
+    "AMOUNT": -108
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA BARTHELEMY MANUTENTIO",
+    "AMOUNT": -465.19
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "LCL FR",
+    "TEXT": "VIR SEPA NATHALIE CHABOT",
+    "AMOUNT": -7000
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "LCL FR",
+    "TEXT": "2026 INVOICES",
+    "AMOUNT": 20000
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "LCL FR",
+    "TEXT": "ABON LCL ACCESS 005,33EUR",
+    "AMOUNT": -5.33
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA ATHLON CAR LEASE",
+    "AMOUNT": -498.34
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "TRANSFER FUNDS",
+    "AMOUNT": 25000
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "BETHANY LTD. - INVOICE MC20260400",
+    "AMOUNT": 71665.98
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "Nicola Desogus",
+    "AMOUNT": -27735
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SOMODIPE",
+    "AMOUNT": -37287.25
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "IGY VIEUX PORT DE CANNES",
+    "AMOUNT": -16657.65
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "ECOTANK",
+    "AMOUNT": -20419.42
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "CARROSSERIE PEDRO",
+    "AMOUNT": -240
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "OFFICE MARITTIME MONEGASQUE",
+    "AMOUNT": -1913.74
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "YACHT REPAIRMAN",
+    "AMOUNT": -38777
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "MATHEZ FREIGHT",
+    "AMOUNT": -95
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "FRANCE PORT SERVICES",
+    "AMOUNT": -20000
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "TAXI SOLEIL",
+    "AMOUNT": -1200
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "3B DISTRIBUTION",
+    "AMOUNT": -51737.06
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -5539.43
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "FRANK SERVICE 06",
+    "AMOUNT": -1100
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "BWA YACHTING MONACO SAM - TRANSFER FUNDS",
+    "AMOUNT": -25000
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "NOVAE - M'BRACE BRAVO EUGENIA",
+    "AMOUNT": -11880
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "FRASER YACHTS GROUP SRL - CH KAISER INV MC20260374",
+    "AMOUNT": 3191.76
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "YCO LTD AQUIJO - INV MC20260372",
+    "AMOUNT": 3132.7
+  },
+  {
+    "DATE": "2026-08-03",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "YCO LIMITED COME TOGETHER - INV MC20260371",
+    "AMOUNT": 8032.35
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "LCL FR",
+    "TEXT": "FACT. DES SERVICES AU  04.08.26",
+    "AMOUNT": -26.57
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "FACT. DES SERVICES AU  04.08.26",
+    "AMOUNT": -184
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SAS LIFEISBOAT LOCATION",
+    "AMOUNT": -645
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "AFEC MARINE",
+    "AMOUNT": -610
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "OPTIONS MC SARL",
+    "AMOUNT": -123.77
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SAFE HARBOR",
+    "AMOUNT": -10512
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "LetsBe Solutions LLC",
+    "AMOUNT": -750
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SENSEA PROVISIONING",
+    "AMOUNT": -75954.86
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -43570.6
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SASU OCEAN DREAMS YACHTING",
+    "AMOUNT": -4536
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SERVAUX SAFETY AND SHIP SERVICE",
+    "AMOUNT": -754.25
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "PORT DE MONACO - FACTURES JUIN 2026",
+    "AMOUNT": -82407.57
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "YACHT CLUB MONACO - SEA HUNTRESS RELEVE 03.08.2026",
+    "AMOUNT": -40548
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "EDMISTON COMPANY LIMITED - MC20260404",
+    "AMOUNT": 2353.87
+  },
+  {
+    "DATE": "2026-08-04",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "REINA YACHTING SINGLE MEMBER P.C. - INV MC20260406",
+    "AMOUNT": 7419.41
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA GENERALI IARD SA",
+    "AMOUNT": -70.48
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA GENERALI IARD SA",
+    "AMOUNT": -87.05
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA WEX EUROPE SERVICES S",
+    "AMOUNT": -128.05
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA GENERALI IARD SA",
+    "AMOUNT": -88.54
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA GENERALI IARD SA",
+    "AMOUNT": -23.49
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA GENERALI IARD SA",
+    "AMOUNT": -117.78
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA GENERALI IARD SA",
+    "AMOUNT": -59.97
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA GENERALI IARD SA",
+    "AMOUNT": -112.51
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA GENERALI IARD SA",
+    "AMOUNT": -152.59
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA DIAC",
+    "AMOUNT": -481.94
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "COMMISSIONS SUR REMISE CB",
+    "AMOUNT": -26.01
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "REM CB NO 000377 A9MONACOBWA",
+    "AMOUNT": 1292.52
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "AEOLUS GROUP",
+    "AMOUNT": -14570.41
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "NATALIA CUTURE",
+    "AMOUNT": -1020
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "TRILOKA.FR",
+    "AMOUNT": -600
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SUPREME YACHTING SA",
+    "AMOUNT": -2447.55
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SARL GLOBAL CHOICE MC-KADIRA",
+    "AMOUNT": -900
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "CURRENCYCLOUD LIMITED - SPIRIT MC20260366",
+    "AMOUNT": 4033.48
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "RITSI MARIN NEPA",
+    "AMOUNT": 4462.5
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "YCO LIMITED - INV MC20260407 BERTHING FEES MONACO",
+    "AMOUNT": 4637.67
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "CURRENCYCLOUD LIMITED - SPIRIT MC20260392",
+    "AMOUNT": 5238.4
+  },
+  {
+    "DATE": "2026-08-05",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "RITSI MARIN NEPA",
+    "AMOUNT": 42676.22
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "Saiag Mickael",
+    "AMOUNT": -5280
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "IGY VIEUX PORT DE CANNES",
+    "AMOUNT": -480
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "NICOLAS IMMOBILIER",
+    "AMOUNT": -520
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "Peninsula Yacht Services Limited",
+    "AMOUNT": -35396.09
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SASU VERY GOOD CAB",
+    "AMOUNT": -12408
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "YACHT CLUB MONACO - 727916 727884",
+    "AMOUNT": -24783.31
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "CENTTRIP LIMITED - CENT8209",
+    "AMOUNT": -20000
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "PORT DE MONACO - FACTURES JUILLET SOLDE",
+    "AMOUNT": -9858.4
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "YACHT CLUB MONACO - 727849 728000",
+    "AMOUNT": -5951.88
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "YACHT CLUB MONACO - 727892",
+    "AMOUNT": -4174.31
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SOLIHULL LIMITED - SPIRIT OF THE C - MC20260377",
+    "AMOUNT": 261
+  },
+  {
+    "DATE": "2026-08-06",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "SENJA CAPITAL HOLDINGS LIMITED - Invoice MC20260385",
+    "AMOUNT": 750.48
+  },
+  {
+    "DATE": "2026-08-07",
+    "WEEK": "W1",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA DIAC LOCATION",
+    "AMOUNT": -31
+  },
+  {
+    "DATE": "2026-08-07",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "CURRENCYCLOUD LIMITED - MC20260383 PAYMENT OF INVOICE",
+    "AMOUNT": 18474.29
+  },
+  {
+    "DATE": "2026-08-07",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "MANTA MARITIME LIMITED - MC20260335",
+    "AMOUNT": 24248.71
+  },
+  {
+    "DATE": "2026-08-07",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "UBS Switzerland AG - return to PORT SAINT TROPEZ",
+    "AMOUNT": 43570.6
+  },
+  {
+    "DATE": "2026-08-07",
+    "WEEK": "W1",
+    "BANK": "UBS",
+    "TEXT": "BWA Yachting SA Lugano - DA",
+    "AMOUNT": 223574.04
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA Sector Alarm SAS-SECT",
+    "AMOUNT": -51.48
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA TOTALENERGIES MARKETI",
+    "AMOUNT": -391.12
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "LCL FR",
+    "TEXT": "VIR SEPA SCI T2H INVEST",
+    "AMOUNT": -2262.09
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA TOTALENERGIES MARKETI",
+    "AMOUNT": -823.78
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "COMMISSIONS SUR REMISE CB",
+    "AMOUNT": -239.45
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "REM CB NO 001013 A9MONACOBWA",
+    "AMOUNT": 11964.31
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "AGENCE MARITIME CANNOISE - FACTURES MAIL 06.08",
+    "AMOUNT": -64367.46
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "IGY VIEUX PORT DE CANNES - GALAXY 10-14.08",
+    "AMOUNT": -2724
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "DUTCH MARITIME PARTNERS - Invoice MC20260412",
+    "AMOUNT": 939.7
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "IYC GREECE SMPC - INVOICE JP MC20260398",
+    "AMOUNT": 7111.38
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "DUTCH MARITIME PARTNERS - Invoice MC20260411",
+    "AMOUNT": 10876.95
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "CHANTAL HERNANDEZ",
+    "AMOUNT": -8181
+  },
+  {
+    "DATE": "2026-08-10",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "Peninsula Yacht Services Limited",
+    "AMOUNT": -141984.78
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA SMEG",
+    "AMOUNT": -290.56
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "HDS LIMOUSINE",
+    "AMOUNT": -29093
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT GALLICE",
+    "AMOUNT": -130
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "SMG MC",
+    "AMOUNT": -157.38
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "NZ TRANSPORT",
+    "AMOUNT": -11765
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "VIP LIMOUSINES",
+    "AMOUNT": -12135
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "ECOTANK",
+    "AMOUNT": -6481.25
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "YACHT CLUB MONACO",
+    "AMOUNT": -1258.8
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "RITSI MARIN NEPA",
+    "AMOUNT": 634.25
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "RED LION CHAMBERS",
+    "AMOUNT": 1423.88
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "EDMISTON YACHT MANAGEMENT LIMITED",
+    "AMOUNT": 2219.8
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "MR ELLIOT RICHARDSON",
+    "AMOUNT": 8850.28
+  },
+  {
+    "DATE": "2026-08-11",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "WILSON YACHT MANAGEMENT LIMITED - D",
+    "AMOUNT": 10066.79
+  },
+  {
+    "DATE": "2026-08-12",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "Codeva Technologies Ltd",
+    "AMOUNT": -2500
+  },
+  {
+    "DATE": "2026-08-12",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "HEIRIES Raphael",
+    "AMOUNT": -160
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA ELECTRICITE DE FRANCE",
+    "AMOUNT": -106.19
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA ES MONACO",
+    "AMOUNT": -792.28
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA ROOLE-IDENTICAR",
+    "AMOUNT": -18.95
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -2108.81
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -2413.67
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -5275.88
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -326.09
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -6914.85
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -458.98
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -10172.69
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -3043.13
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -118.28
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -3715.39
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "AEOLUS GROUP",
+    "AMOUNT": -422
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -3111.09
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -1590.26
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -2517.63
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -1803.85
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "ROGER KEITH VER",
+    "AMOUNT": 1055
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "AMALYA",
+    "AMOUNT": 9191.99
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "CENTTRIP LIMITED - CENT8209",
+    "AMOUNT": -20000
+  },
+  {
+    "DATE": "2026-08-13",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "WILSON YACHT MANAGEMENT LTD - DEJA TOO APA ONO - OVERPAYMENT REFUND MC20260414",
+    "AMOUNT": -550
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "LCL FR",
+    "TEXT": "TRANSFER FROM UBS",
+    "AMOUNT": 20000
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "LCL FR",
+    "TEXT": "VIR SEPA ADLENE BENALI",
+    "AMOUNT": -39.59
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "TRANSFER FROM UBS",
+    "AMOUNT": 25000
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "VIR SEPA HUGUES BEAU YON DE JON",
+    "AMOUNT": -209.03
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "VIR SEPA THOMAS SEGUIN- BARBARI",
+    "AMOUNT": -69
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "LCL MC",
+    "TEXT": "VIR SEPA LAVINIA PARODI",
+    "AMOUNT": -50.96
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "BWA YACHTING MONACO SAM - TRANSFER FUNDS",
+    "AMOUNT": -25000
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "FRANCE PORT SERVICES - 2026 INVOICES",
+    "AMOUNT": -20000
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT DE MANDELIEU",
+    "AMOUNT": -140
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "PORT DE NICE",
+    "AMOUNT": -29248.63
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "J. AND M. SHIPPING CO LTD - INVOICES MC20260313/267/275",
+    "AMOUNT": 4095.14
+  },
+  {
+    "DATE": "2026-08-14",
+    "WEEK": "W2",
+    "BANK": "UBS",
+    "TEXT": "MANSON INTERNATIONAL CO. - SETTL INV MC20260328",
+    "AMOUNT": 5945.32
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "REMBOURSEMENT SUITE A RISTOURNE",
+    "AMOUNT": 80.62
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA SMEG",
+    "AMOUNT": -39.25
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA CCSS",
+    "AMOUNT": -16385
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA Monaco Telecom-MONACO",
+    "AMOUNT": -109.99
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA Monaco Telecom-MONACO",
+    "AMOUNT": -119.99
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA Monaco Telecom-MONACO",
+    "AMOUNT": -1002.17
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA Monaco Telecom-MONACO",
+    "AMOUNT": -112.18
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA SERVICE DES PARKINGS",
+    "AMOUNT": -134
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "COMMISSIONS SUR REMISE CB",
+    "AMOUNT": -16.29
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "REM CB NO 000617 A9MONACOBWA",
+    "AMOUNT": 806.41
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "COMMISSIONS SUR REMISE CB",
+    "AMOUNT": -10.56
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "REM CB NO 000627 A9MONACOBWA",
+    "AMOUNT": 520
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PLATINE TRANSFERT",
+    "AMOUNT": -2988.02
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "Saint-Tropez Tourisme",
+    "AMOUNT": -410
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "LINKS INTERNATIONAL",
+    "AMOUNT": -2700
+  },
+  {
+    "DATE": "2026-08-17",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "WILSON YACHT MANAGEMENT LTD - DEJA",
+    "AMOUNT": 15864.55
+  },
+  {
+    "DATE": "2026-08-18",
+    "WEEK": "W3",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA URSSAF PACA",
+    "AMOUNT": -10008
+  },
+  {
+    "DATE": "2026-08-18",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "COMMISSIONS SUR REMISE CB",
+    "AMOUNT": -179.07
+  },
+  {
+    "DATE": "2026-08-18",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "REM CB NO 001243 A9MONACOBWA",
+    "AMOUNT": 8945.5
+  },
+  {
+    "DATE": "2026-08-18",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "REGIE DU PORT CANTO",
+    "AMOUNT": -4246.75
+  },
+  {
+    "DATE": "2026-08-18",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "UBS SWITZERLAND AG",
+    "AMOUNT": 118.28
+  },
+  {
+    "DATE": "2026-08-18",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "FINSETA PAYMENT SOLUTIONS LTD",
+    "AMOUNT": 1891.95
+  },
+  {
+    "DATE": "2026-08-18",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PALUMBO SUPERYACHTS SRL",
+    "AMOUNT": 2865.16
+  },
+  {
+    "DATE": "2026-08-18",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "NIGEL BURGESS LIMITED",
+    "AMOUNT": 14133.09
+  },
+  {
+    "DATE": "2026-08-19",
+    "WEEK": "W3",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA Q-Park France",
+    "AMOUNT": -560
+  },
+  {
+    "DATE": "2026-08-19",
+    "WEEK": "W3",
+    "BANK": "LCL FR",
+    "TEXT": "VIR SEPA AGENET FR",
+    "AMOUNT": -1667.91
+  },
+  {
+    "DATE": "2026-08-19",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "MARI TRANSPORTS MONACO",
+    "AMOUNT": -21581.18
+  },
+  {
+    "DATE": "2026-08-19",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "NESPRESSO FRANCE SAS",
+    "AMOUNT": -990
+  },
+  {
+    "DATE": "2026-08-19",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "MANTA MARITIME LIMITED",
+    "AMOUNT": 473.57
+  },
+  {
+    "DATE": "2026-08-19",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "BWA Yachting SA",
+    "AMOUNT": 209910.34
+  },
+  {
+    "DATE": "2026-08-19",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "MANTA MARITIME LIMITED - MC20260431",
+    "AMOUNT": 557.08
+  },
+  {
+    "DATE": "2026-08-19",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "WILSON YACHT MANAGEMENT LIMITED - MC20260422",
+    "AMOUNT": 35054
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA AMS FIDUCIAIRE SARL",
+    "AMOUNT": -1015.66
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA AUTOROUTES DU SUD DE",
+    "AMOUNT": -2.28
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA AMS FIDUCIAIRE SARL",
+    "AMOUNT": -1911.52
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -1557.72
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -591.58
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -11723.12
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "SOMODIPE",
+    "AMOUNT": -41000
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "EVA NARDI",
+    "AMOUNT": -200
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT DE COGOLIN",
+    "AMOUNT": -9555.5
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -1542.87
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -7409.85
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -3336.62
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -3418.88
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -6506.88
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -6130.36
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -362.18
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "PORT SAINT TROPEZ",
+    "AMOUNT": -1055.97
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "CURRENCYCLOUD LIMITEDPAYMENT ACCOUNT",
+    "AMOUNT": 3245.01
+  },
+  {
+    "DATE": "2026-08-20",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "ATALANTA MARIN EMPORIKI, NAFTILIAKI",
+    "AMOUNT": 81905.18
+  },
+  {
+    "DATE": "2026-08-21",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "CENTTRIP LIMITED",
+    "AMOUNT": -20000
+  },
+  {
+    "DATE": "2026-08-21",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "IMAGIN'ERE",
+    "AMOUNT": -1440
+  },
+  {
+    "DATE": "2026-08-21",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "MANTA MARITIME LIMITED",
+    "AMOUNT": 315
+  },
+  {
+    "DATE": "2026-08-21",
+    "WEEK": "W3",
+    "BANK": "UBS",
+    "TEXT": "ELIS ET MAR",
+    "AMOUNT": 4777.71
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA ORANGE SA",
+    "AMOUNT": -838.72
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "COM REM 260824 000002 VIRTS",
+    "AMOUNT": -0.54
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "REMISE VIREMENTS        240826",
+    "AMOUNT": -11816.2
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "COMMISSIONS SUR REMISE CB",
+    "AMOUNT": -2.07
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "REM CB NO 001389 A9MONACOBWA",
+    "AMOUNT": 317.97
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "MONDIAL FEU",
+    "AMOUNT": -461.28
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "AGENCE MARITIME CANNOISE",
+    "AMOUNT": -45480.47
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "ANTHOS CLEANTHOUS BLUE POINT YACHTING LTD",
+    "AMOUNT": -29620.66
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "ELEGANCE BY MA",
+    "AMOUNT": -1380
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "LANGLOIS FAUSTIN",
+    "AMOUNT": -11000
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "NOVAE",
+    "AMOUNT": -5760
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "NIGEL BURGESS LIMITED",
+    "AMOUNT": 2065.43
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "DUTCH MARITIME PARTNERS",
+    "AMOUNT": 2150.69
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "ASCOT B V I HOLDING CO LTD",
+    "AMOUNT": 5994.07
+  },
+  {
+    "DATE": "2026-08-24",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "NIGEL BURGESS LIMITED",
+    "AMOUNT": 6732.23
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA TOTALENERGIES MARKETI",
+    "AMOUNT": -195.97
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA B2B DIRECTION GENERAL",
+    "AMOUNT": -469
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "LCL FR",
+    "TEXT": "SALAIRES FR",
+    "AMOUNT": -20000
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "LCL FR",
+    "TEXT": "TRANSFER FROM UBS",
+    "AMOUNT": 25442.7
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "PRLV SEPA TOTALENERGIES MARKETI",
+    "AMOUNT": -477.16
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "SALAIRES MONACO",
+    "AMOUNT": -40000
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "TRANSFER FROM UBS",
+    "AMOUNT": 19564.55
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "PRODIVE",
+    "AMOUNT": -7572
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "SMADEC",
+    "AMOUNT": -5387.76
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "Peninsula Yacht Services Limited",
+    "AMOUNT": -29249.42
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "EDEIS PAMPELONNE",
+    "AMOUNT": -7898.86
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "STRAN CAPITAL LLC",
+    "AMOUNT": 5
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "INTERNATIONAL YACHT CORPORATION",
+    "AMOUNT": 3037.61
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "FAIRPORT YACHT SUPPORT LLC",
+    "AMOUNT": 14353.57
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "MANSON INTERNATIONAL CO.",
+    "AMOUNT": 44494
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "PORT DE MONACO",
+    "AMOUNT": -270000
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "TRANSFER TO LCL FR (min. balance top-up)",
+    "AMOUNT": -25442.7
+  },
+  {
+    "DATE": "2026-08-25",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "TRANSFER TO LCL MC (min. balance top-up)",
+    "AMOUNT": -19564.55
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "LCL FR",
+    "TEXT": "COTISATION MENSUELLE CARTE 1604",
+    "AMOUNT": -5.41
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "LCL FR",
+    "TEXT": "PRLV SEPA B2B DIRECTION GENERAL",
+    "AMOUNT": -14349
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "COTISATION MENSUELLE CARTE 1088",
+    "AMOUNT": -12.4
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "COTISATION MENSUELLE CARTE 6792",
+    "AMOUNT": -12.4
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "LCL MC",
+    "TEXT": "COTISATION MENSUELLE CARTE 0960",
+    "AMOUNT": -21.92
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "L.M. NAUTICA SRL",
+    "AMOUNT": -340
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "Peninsula Yacht Services Limited",
+    "AMOUNT": -68053.34
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "YACHT CLUB MONACO",
+    "AMOUNT": -20019.55
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "RIVIERA MASSAGE",
+    "AMOUNT": -1050
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "LES PETITS VOYAGES D'AZUR",
+    "AMOUNT": -350
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "PRESSING MARVIVO",
+    "AMOUNT": -609.3
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "REINA YACHTING SINGLE MEMBER P.C.",
+    "AMOUNT": 7495.8
+  },
+  {
+    "DATE": "2026-08-26",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "EDMISTON  COMPANY LIMITED",
+    "AMOUNT": 31569.09
+  },
+  {
+    "DATE": "2026-08-27",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "SEA STARS SARL",
+    "AMOUNT": 70
+  },
+  {
+    "DATE": "2026-08-27",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "SEA STARS SARL",
+    "AMOUNT": 770
+  },
+  {
+    "DATE": "2026-08-27",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "SEA STARS SARL",
+    "AMOUNT": 1538.01
+  },
+  {
+    "DATE": "2026-08-27",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "EDMISTON  COMPANY LIMITED",
+    "AMOUNT": 52569.23
+  },
+  {
+    "DATE": "2026-08-28",
+    "WEEK": "W4",
+    "BANK": "UBS",
+    "TEXT": "DA Payment",
+    "AMOUNT": 500000
+  }
+]
