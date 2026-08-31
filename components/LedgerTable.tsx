@@ -12,6 +12,9 @@ type EditState = {
   amount: string;
 };
 
+type SortKey = "date" | "amount";
+type Sort = { key: SortKey; dir: "asc" | "desc" };
+
 export function LedgerTable({
   transactions,
   banks,
@@ -31,16 +34,36 @@ export function LedgerTable({
   const [query, setQuery] = useState("");
   const [editingId, setEditingId] = useState<string | null>(null);
   const [draft, setDraft] = useState<EditState | null>(null);
+  const [sort, setSort] = useState<Sort | null>(null);
 
   const filtered = useMemo(() => {
-    return transactions.filter((t) => {
+    const rows = transactions.filter((t) => {
       if (bankFilter && t.bank !== bankFilter) return false;
       if (weekFilter && t.week !== weekFilter) return false;
       if (query && !t.text.toLowerCase().includes(query.toLowerCase()))
         return false;
       return true;
     });
-  }, [transactions, bankFilter, weekFilter, query]);
+
+    if (!sort) return rows;
+
+    const factor = sort.dir === "asc" ? 1 : -1;
+    return [...rows].sort((a, b) => {
+      if (sort.key === "amount") return (a.amount - b.amount) * factor;
+      return a.date.localeCompare(b.date) * factor;
+    });
+  }, [transactions, bankFilter, weekFilter, query, sort]);
+
+  function toggleSort(key: SortKey) {
+    setSort((prev) =>
+      prev?.key === key ? { key, dir: prev.dir === "asc" ? "desc" : "asc" } : { key, dir: "asc" }
+    );
+  }
+
+  function sortIndicator(key: SortKey) {
+    if (sort?.key !== key) return null;
+    return <span className="ml-1">{sort.dir === "asc" ? "▲" : "▼"}</span>;
+  }
 
   function startEdit(t: TransactionDTO) {
     setEditingId(t.id);
@@ -112,11 +135,21 @@ export function LedgerTable({
         <table className="w-full min-w-[640px] border-collapse text-sm">
           <thead>
             <tr className="border-b border-rule-strong">
-              <th className="p-3 text-left font-mono text-xs uppercase tracking-wide text-ink-soft">Date</th>
+              <th
+                className="cursor-pointer select-none p-3 text-left font-mono text-xs uppercase tracking-wide text-ink-soft hover:text-brass-deep"
+                onClick={() => toggleSort("date")}
+              >
+                Date{sortIndicator("date")}
+              </th>
               <th className="p-3 text-left font-mono text-xs uppercase tracking-wide text-ink-soft">Week</th>
               <th className="p-3 text-left font-mono text-xs uppercase tracking-wide text-ink-soft">Bank</th>
               <th className="p-3 text-left font-mono text-xs uppercase tracking-wide text-ink-soft">Description</th>
-              <th className="p-3 text-right font-mono text-xs uppercase tracking-wide text-ink-soft">Amount</th>
+              <th
+                className="cursor-pointer select-none p-3 text-right font-mono text-xs uppercase tracking-wide text-ink-soft hover:text-brass-deep"
+                onClick={() => toggleSort("amount")}
+              >
+                Amount{sortIndicator("amount")}
+              </th>
               <th className="no-print p-3"></th>
             </tr>
           </thead>
