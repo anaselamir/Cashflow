@@ -20,5 +20,6 @@ export const config = {
     "/api/settings/:path*",
     "/api/import/:path*",
     "/api/export/:path*",
+    "/api/close-month/:path*",
   ],
 };

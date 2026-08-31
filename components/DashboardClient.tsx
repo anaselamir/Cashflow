@@ -10,6 +10,7 @@ import { LedgerTable } from "@/components/LedgerTable";
 import { ExportButtons } from "@/components/ExportButtons";
 import { ImportBanner } from "@/components/ImportBanner";
 import { BankCsvImport } from "@/components/BankCsvImport";
+import { CloseMonthButton } from "@/components/CloseMonthButton";
 import { distinctBanks, balancesByBank } from "@/lib/pivot";
 import type { TransactionDTO } from "@/lib/types";
 
@@ -159,6 +160,8 @@ export function DashboardClient({ userEmail }: { userEmail: string }) {
             onDelete={deleteTransaction}
           />
         </section>
+
+        <CloseMonthButton onClosed={loadAll} />
 
         <p className="no-print text-center font-mono text-xs text-ink-soft">
           Signed in as {userEmail}
