@@ -40,11 +40,18 @@ export async function POST(request: Request) {
   // The statement is authoritative for the date range it covers — replace
   // whatever is already on the books for this bank in that window (including
   // provisional/estimated entries) with what the statement actually says.
+  // Opening-balance anchors are exempt: they represent the balance carried
+  // in before tracking started, not a movement the statement would show, so
+  // a statement starting on the same date must not wipe them out.
   const { min, max } = dateRange(rows);
 
   const [{ count: replaced }, created] = await prisma.$transaction([
     prisma.transaction.deleteMany({
-      where: { bank, date: { gte: new Date(min), lte: new Date(max) } },
+      where: {
+        bank,
+        date: { gte: new Date(min), lte: new Date(max) },
+        NOT: { text: { startsWith: "OPENING BALANCE", mode: "insensitive" } },
+      },
     }),
     prisma.transaction.createMany({
       data: rows.map((r) => ({
