@@ -35,7 +35,10 @@ export function BankCsvImport({ onImported }: { onImported: () => Promise<void> 
                     status: "done",
                     message:
                       `${body.bank}: ${body.imported} entries` +
-                      (body.replaced ? ` (replaced ${body.replaced} existing)` : ""),
+                      (body.replaced ? ` (replaced ${body.replaced} existing)` : "") +
+                      (body.outsideMonth
+                        ? ` — ${body.outsideMonth} rows outside the current month skipped`
+                        : ""),
                   }
                 : { ...r, status: "error", message: body.error }
               : r
