@@ -46,3 +46,4 @@ next-env.d.ts
 # local Windows service logs (NSSM)
 service-stdout.log
 service-stderr.log
+start-dev.cmd
